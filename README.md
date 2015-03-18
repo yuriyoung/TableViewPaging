@@ -1,2 +1,0 @@
-# TableViewPaging
-QTableView和SQLite数据库分页方式展示数据
