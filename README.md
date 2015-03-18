@@ -5,3 +5,4 @@
 2.使用model-delegate代理方式显示数据样式（表格颜色、字体颜色）<br/>
 3.可插入/删除数据条目<br/>
 4.显示数据分数和总条目<br/>
+![image](screenshot.jpg)
